@@ -4,7 +4,7 @@
 
 ![screenshot](./images/fullsite.png)
 
-## live Demo [click here](https:)
+## live Demo [click here](https://kaylemba.github.io/math-magicians2/)
 
 
 
