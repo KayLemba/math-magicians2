@@ -2,7 +2,10 @@
 
 "Math Magicians" is a single page application (SPA) built with React for people who love mathematics. It helps to make calculations straight forward and easy"
 
-![calcul](https://user-images.githubusercontent.com/57562869/128854718-9eef3b78-0226-4c17-a049-bcdc487c4d91.png)
+![screenshot](./images/fullsite.png)
+
+## live Demo [click here](https:)
+
 
 
 > This is a calculator application that solves advanced problems in Physics and Mathematics.
