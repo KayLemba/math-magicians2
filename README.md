@@ -4,7 +4,7 @@
 
 ![screenshot](./images/fullsite.png)
 
-## live Demo [click here](https://kaylemba.github.io/math-magicians2/)
+## live Demo [click here](https://distracted-aryabhata-aa3d97.netlify.app)
 
 
 
